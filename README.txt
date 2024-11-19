@@ -1,4 +1,4 @@
-Webpage: aritra1311.github.io
+Webpage: aritra.github.io
 
 Stellar by HTML5 UP
 html5up.net | @ajlkn
